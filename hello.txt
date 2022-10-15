@@ -1,6 +1,7 @@
 hello git 2
 hello git 3
 hello git master test
+hello git hot-fix
 hello git
 hello git
 hello git
